@@ -1,5 +1,6 @@
 site_name: Raggie
 site_description: Самостоятельная cloud-native векторная СУБД
+site_url: https://isotere.github.io/raggie/
 repo_name: Isotere/raggie
 repo_url: https://github.com/Isotere/raggie
 edit_uri: edit/master/docs/
