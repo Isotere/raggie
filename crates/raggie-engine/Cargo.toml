@@ -1,5 +1,5 @@
 [package]
-name = "raggie-cli"
+name = "raggie-engine"
 version.workspace = true
 edition.workspace = true
 rust-version.workspace = true
@@ -7,7 +7,6 @@ repository.workspace = true
 publish.workspace = true
 
 [dependencies]
-raggie-engine = { path = "../../crates/raggie-engine" }
 
 [lints]
 workspace = true
